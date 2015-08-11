@@ -1,4 +1,4 @@
 <?php
 
-echo 'hello,world';		//bad comment
+echo 'hello,world';		// it is good
 echo 'hello,github';
